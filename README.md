@@ -72,7 +72,7 @@ A curated list of awesome Chatbot services and resources.
 - [Bot Weekly](http://botweekly.com/issues) - Weekly round up of the most interesting chatbot and AI news
 
 ### Tutorials
-- [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js) - Tutorial for Claudia Bot Builder
+- [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/) - Tutorial for Claudia Bot Builder
 
 ## Contributing
 
