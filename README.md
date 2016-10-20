@@ -2,6 +2,8 @@
 
 A curated list of awesome Chatbot services and resources.
 
+## Contents
+
 - [Services](#services)
     - [Chatbot builder](#chatbot-builder)
     - [Messaging services](#messaging-services)
