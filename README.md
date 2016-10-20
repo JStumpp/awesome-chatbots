@@ -7,16 +7,18 @@ A curated list of awesome Chatbot services and resources.
 - [Services](#services)
     - [Chatbot builder](#chatbot-builder)
     - [Messaging services](#messaging-services)
+- [Example projects](#example-projects)
 - [Chatbot Platforms and Channels](#chatbot-platforms-and-channels)
 - [Personal Assistants](#personal-assistants)
 - [Chatbots](#chatbots)
-- [Tools](#tools)
 - [Resources](#resources)
+    - [Tutorials](#tutorials)
 - [Contributing](#contributing)
 
 ## Services
 
 ### Chatbot builder
+- [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Open Source library to create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda
 - [Pandorabots](http://pandorabots.com/) - Web service for building and deploying chatbots.
 - [api.ai](https://api.ai/) - Conversational User Experience platform
 - [Gupshup](https://www.gupshup.io) - Comprehensive Platform to build Bots and use messaging Services
@@ -29,6 +31,9 @@ A curated list of awesome Chatbot services and resources.
 - [msg.ai](http://msg.ai/) - AI for Conversational Commerce
 - [wit.ai](https://wit.ai/) - Natural Language for Developers
 - [Assist](https://www.assi.st/) - Bring services to messaging apps
+
+## Example projects 
+- [Facebook Messenger DevKit](https://github.com/olegakbarov/facebook-messenger-devkit) - Node.js setup for rapid development for Facebook Messenger Platform
 
 ## Chatbot Platforms and Channels
 - [Facebook messenger](https://developers.facebook.com/docs/messenger-platform)
@@ -60,13 +65,13 @@ A curated list of awesome Chatbot services and resources.
 - [Microsoft Tay](https://twitter.com/tayandyou)
 - [Cleverbot](http://www.cleverbot.com/)
 
-## Tools
-- [Facebook Messenger DevKit](https://github.com/olegakbarov/facebook-messenger-devkit) - Node.js setup for rapid development for Facebook Messenger Platform
-
 ## Resources
 - [Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - Good introduction
 - [Chatbots Magazine](https://chatbotsmagazine.com/) - A good place to Learn About Chatbots
 - [Bot Weekly](http://botweekly.com/issues) - Weekly round up of the most interesting chatbot and AI news
+
+### Tutorials
+- [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js) - Tutorial for Claudia Bot Builder
 
 ## Contributing
 
