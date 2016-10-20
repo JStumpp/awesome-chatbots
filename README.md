@@ -10,6 +10,7 @@ A curated list of awesome Chatbot services and resources.
 - [Chatbot Platforms and Channels](#chatbot-platforms-and-channels)
 - [Personal Assistants](#personal-assistants)
 - [Chatbots](#chatbots)
+- [Tools](#tools)
 - [Resources](#resources)
 - [Contributing](#contributing)
 
@@ -22,6 +23,7 @@ A curated list of awesome Chatbot services and resources.
 - [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding
 - [message.io](https://www.message.io/) - Enterprise bots for Slack, HipChat and Skype
 - [Backchannel](https://www.backchannel.net/) - Platform for building messaging bots for answering service
+- [TuringRobot](http://www.tuling123.com/) - Platform for AI robots and AI robot OS
 
 ### Messaging services
 - [msg.ai](http://msg.ai/) - AI for Conversational Commerce
@@ -58,8 +60,7 @@ A curated list of awesome Chatbot services and resources.
 - [Microsoft Tay](https://twitter.com/tayandyou)
 - [Cleverbot](http://www.cleverbot.com/)
 
-## Chatbot tools
-- [TuringRobot](http://www.tuling123.com/) - Platform for AI robots and AI robot OS
+## Tools
 - [Facebook Messenger DevKit](https://github.com/olegakbarov/facebook-messenger-devkit) - Node.js setup for rapid development for Facebook Messenger Platform
 
 ## Resources
