@@ -1,4 +1,4 @@
-# Awesome Chatbots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/JStumpp/awesome-chatbots.svg?branch=master)](https://travis-ci.org/JStumpp/awesome-chatbots)
+# Awesome Chatbots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/JStumpp/awesome-chatbots.svg?branch=master)](https://travis-ci.org/JStumpp/awesome-chatbots)
 
 A curated list of awesome Chatbot services and resources.
 
@@ -17,8 +17,8 @@ A curated list of awesome Chatbot services and resources.
 - [Pandorabots](http://pandorabots.com/) - Web service for building and deploying chatbots.
 - [api.ai](https://api.ai/) - Conversational User Experience platform
 - [Gupshup](https://www.gupshup.io) - Comprehensive Platform to build Bots and use messaging Services
-- [Chatfuel](http://chatfuel.com/) - Build a Facebook bot without coding
-- [Prompt](http://promptapp.io/) - Enterprise bots for Slack, HipChat and Skype
+- [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding
+- [message.io](https://www.message.io/) - Enterprise bots for Slack, HipChat and Skype
 - [Backchannel](https://www.backchannel.net/) - Platform for building messaging bots for answering service
 
 ### Messaging services
@@ -45,14 +45,14 @@ A curated list of awesome Chatbot services and resources.
 - [Amazon Alexa](https://developer.amazon.com/alexa)
 - [Cortana](https://developer.microsoft.com/en-us/cortana)
 - [Viv](http://viv.ai/) - Promising artificial intelligence platform
-- [Magic](https://getmagicnow.com/) - Text to get anything ondemand
-- [Sensay](http://www.sensay.it/) - Instantly connect with a real human whenever you need advice or inspiration.
+- [Magic](https://getmagic.com/) - Text to get anything ondemand
+- [Sensay](https://www.sensay.it/) - Instantly connect with a real human whenever you need advice or inspiration.
 
 ## Chatbots
 - [Botlist](https://botlist.co/) - An App Store For Bots
 - [A. L. I. C. E.](http://alice.pandorabots.com/)
 - [Mitsuku](http://www.mitsuku.com/) - Won most humanlike AI in Loebner Price
-- [Microsoft XiaoIce in Chinese ](http://www.msxiaoice.com/DesktopLanding)
+- [Microsoft XiaoIce in Chinese ](http://www.msxiaoice.com/)
 - [Microsoft Tay](https://twitter.com/tayandyou)
 - [Cleverbot](http://www.cleverbot.com/)
 
