@@ -18,8 +18,9 @@ A curated list of awesome Chatbot services and resources.
 ## Services
 
 ### Chatbot builder
-- [Botkit](https://github.com/howdyai/botkit) - Open Source bot building blocks for Slack, Facebook Messenger, Twilio, Microsoft with [Botkit Studio](https://studio.botkit.ai/login) - a hosted development environment
-- [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Open Source library to create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda
+- [Botkit](https://github.com/howdyai/botkit) - Open Source bot building blocks (nodejs) for Slack, Facebook Messenger, Twilio, Microsoft with [Botkit Studio](https://studio.botkit.ai/login) - a hosted development environment
+- [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Open Source library (nodejs) to create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda
+- [Bottr](https://github.com/Bottr-js/Bottr) - Open Source bot framework (nodejs).
 - [Pandorabots](http://pandorabots.com/) - Web service for building and deploying chatbots
 - [api.ai](https://api.ai/) - Conversational User Experience platform
 - [Gupshup](https://www.gupshup.io) - Comprehensive Platform to build Bots and use messaging Services
