@@ -1,4 +1,4 @@
-# Awesome Chatbots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/JStumpp/awesome-chatbots.svg?branch=master)](https://travis-ci.org/JStumpp/awesome-chatbots)
+# Awesome Chatbots 🤖 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/JStumpp/awesome-chatbots.svg?branch=master)](https://travis-ci.org/JStumpp/awesome-chatbots)
 
 A curated list of awesome Chatbot services and resources.
 
@@ -20,6 +20,7 @@ A curated list of awesome Chatbot services and resources.
 - [Botkit](https://github.com/howdyai/botkit) - Open Source bot building blocks for Slack, Facebook Messenger, Twilio, Microsoft with [Botkit Studio](https://studio.botkit.ai/) - a hosted development environment
 - [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Open Source library to create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda
 - [AIVA](https://github.com/kengz/aiva) -General-purpose virtual assistant for developers.
+- [Bottr](https://github.com/Bottr-js/Bottr) - Open Source bot framework (nodejs).
 
 ## Services
 
