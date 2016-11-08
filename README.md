@@ -3,7 +3,7 @@
 A curated list of awesome Chatbot services and resources.
 
 ## Contents
-
+- [Open Source Projects](#open-source-projects)
 - [Services](#services)
     - [Chatbot builder](#chatbot-builder)
     - [Messaging services](#messaging-services)
@@ -15,14 +15,19 @@ A curated list of awesome Chatbot services and resources.
     - [Tutorials](#tutorials)
 - [Contributing](#contributing)
 
+## Open Source Projects
+- [spaCy](https://pypi.python.org/pypi/spacy) - Python library for advanced natural language processing.
+- [Botkit](https://github.com/howdyai/botkit) - Open Source bot building blocks for Slack, Facebook Messenger, Twilio, Microsoft with [Botkit Studio](https://studio.botkit.ai/) - a hosted development environment
+- [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Open Source library to create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda
+- [AIVA](https://github.com/kengz/aiva) -General-purpose virtual assistant for developers.
+
 ## Services
 
 ### Chatbot builder
-- [Botkit](https://github.com/howdyai/botkit) - Open Source bot building blocks for Slack, Facebook Messenger, Twilio, Microsoft with [Botkit Studio](https://studio.botkit.ai/) - a hosted development environment
-- [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Open Source library to create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda
+- [Flow XO](https://flowxo.com) - Bot + human messaging platform
+- [Gupshup](https://www.gupshup.io) - Comprehensive Platform to build Bots and use messaging Services
 - [Pandorabots](http://pandorabots.com/) - Web service for building and deploying chatbots
 - [api.ai](https://api.ai/) - Conversational User Experience platform
-- [Gupshup](https://www.gupshup.io) - Comprehensive Platform to build Bots and use messaging Services
 - [reply.ai](https://www.reply.ai/) - Platform to build & manage conversation chatbots
 - [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding
 - [message.io](https://www.message.io/) - Enterprise bots for Slack, HipChat and Skype
