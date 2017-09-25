@@ -5,6 +5,7 @@ A curated list of awesome Chatbot services and resources.
 ## Contents
 - [Open Source Projects](#open-source-projects)
 - [Services](#services)
+    - [Chatbot design](#chatbot-design)
     - [Chatbot builder](#chatbot-builder)
     - [Messaging services](#messaging-services)
 - [Example projects](#example-projects)
@@ -23,6 +24,9 @@ A curated list of awesome Chatbot services and resources.
 - [Bottr](https://github.com/Bottr-js/Bottr) - Open Source bot framework (nodejs).
 
 ## Services
+
+### Chatbot design
+- [Botsociety](https://botsociety.io) - Design and preview your chabot before actually building it.
 
 ### Chatbot builder
 - [Flow XO](https://flowxo.com) - Bot + human messaging platform
