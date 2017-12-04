@@ -96,6 +96,9 @@ A curated list of awesome Chatbot services and resources.
 
 ### Tutorials
 - [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/) - Tutorial for Claudia Bot Builder
+- [Handling Permissions with DialogFlow and Actions On Google](https://medium.com/google-developer-experts/handling-permissions-with-dialogflow-and-actions-on-google-b08c8f228c00) - Tutorial for the Google Assistant & DialogFlow
+- [Build multi-lingual Actions for the Google Assistant](https://medium.com/google-developer-experts/build-multi-lingual-actions-for-the-google-assistant-106d2b94aa1a) - Tutorial for the Google Assistant & DialogFlow
+- [Mastering follow-up intents with DialogFlow](https://medium.com/@wassimchegham/mastering-follow-up-intents-with-dialogflow-851b75b83f5a) - Tutorial for the Google Assistant & DialogFlow
 
 ## Contributing
 
