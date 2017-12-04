@@ -31,18 +31,16 @@ A curated list of awesome Chatbot services and resources.
 ### Chatbot builder
 - [Flow XO](https://flowxo.com) - Bot + human messaging platform
 - [Gupshup](https://www.gupshup.io) - Comprehensive Platform to build Bots and use messaging Services
-- [Pandorabots](http://pandorabots.com/) - Web service for building and deploying chatbots
+- [Pandorabots](https://pandorabots.com/) - Web service for building and deploying chatbots
 - [DialogFlow](https://dialogflow.com/) - Conversational User Experience platform
 - [reply.ai](https://www.reply.ai/) - Platform to build & manage conversation chatbots
 - [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding
-- [message.io](https://www.message.io/) - Enterprise bots for Slack, HipChat and Skype
-- [Backchannel](https://www.backchannel.net/) - Platform for building messaging bots for answering service
+- [message.io](https://message.io/) - Enterprise bots for Slack, HipChat and Skype
 - [TuringRobot](http://www.tuling123.com/) - Platform for AI robots and AI robot OS
 
 ### Messaging services
 - [msg.ai](http://msg.ai/) - AI for Conversational Commerce
 - [wit.ai](https://wit.ai/) - Natural Language for Developers
-- [Assist](https://www.assi.st/) - Bring services to messaging apps
 - [Google NLP](https://cloud.google.com/natural-language/) - Cloud Natural Language API (up to 5K free analyses/month)
 
 ## Analytics
@@ -72,7 +70,7 @@ A curated list of awesome Chatbot services and resources.
 - Line
 
 ## Personal Assistants
-- [Apple Siri](http://www.apple.com/ios/siri/)
+- [Apple Siri](https://www.apple.com/ios/siri/)
 - [Google Assistant](https://assistant.google.com/)
 - [Amazon Alexa](https://developer.amazon.com/alexa)
 - [Cortana](https://developer.microsoft.com/en-us/cortana)
@@ -82,7 +80,7 @@ A curated list of awesome Chatbot services and resources.
 
 ## Chatbots
 - [Botlist](https://botlist.co/) - An App Store For Bots
-- [A. L. I. C. E.](http://alice.pandorabots.com/)
+- [A. L. I. C. E.](https://alice.pandorabots.com/)
 - [Mitsuku](http://www.mitsuku.com/) - Won most humanlike AI in Loebner Price
 - [Microsoft XiaoIce in Chinese ](http://www.msxiaoice.com/)
 - [Microsoft Tay](https://twitter.com/tayandyou)
