@@ -47,6 +47,7 @@ A curated list of awesome Chatbot services and resources.
 ## Analytics
 - [Botlytics](http://botlytics.io/) - Analytics and Engagement platform for bots
 - [Dashbot](https://www.dashbot.io/) - Bot Analytics
+- [ChatBase](https://chatbase.com/welcome) - Analyze and optimize bots more easily
 
 ## Payments & Subscriptions
 - [Paypal](https://developer.paypal.com/)
