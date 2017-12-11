@@ -57,6 +57,7 @@ A curated list of awesome Chatbot services and resources.
 - [Facebook Messenger DevKit](https://github.com/olegakbarov/facebook-messenger-devkit) - Node.js setup for rapid development for Facebook Messenger Platform
 
 ## Chatbot Platforms and Channels
+- [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
 - [Facebook messenger](https://developers.facebook.com/docs/messenger-platform)
 - [Wechat](https://admin.wechat.com/)
 - [Slack](https://api.slack.com/bot-users)
