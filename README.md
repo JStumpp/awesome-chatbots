@@ -22,6 +22,7 @@ A curated list of awesome Chatbot services and resources.
 - [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Open Source library to create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda
 - [AIVA](https://github.com/kengz/aiva) -General-purpose virtual assistant for developers.
 - [Bottr](https://github.com/Bottr-js/Bottr) - Open Source bot framework (nodejs).
+- [RedBot](http://red-bot.io) - A Node-RED plugin to create multi-platform bots visually (nodejs).
 
 ## Services
 
