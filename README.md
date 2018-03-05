@@ -83,7 +83,7 @@ A curated list of awesome Chatbot services and resources.
 ## Chatbots
 - [Botlist](https://botlist.co/) - An App Store For Bots
 - [A. L. I. C. E.](https://alice.pandorabots.com/)
-- [Mitsuku](https://pandorabots.com/mitsuku) - Won most humanlike AI in Loebner Price
+- [Mitsuku](https://pandorabots.com/mitsuku/) - Won most humanlike AI in Loebner Price
 - [Microsoft XiaoIce in Chinese ](http://www.msxiaoice.com/)
 - [Microsoft Tay](https://twitter.com/tayandyou)
 - [Cleverbot](http://www.cleverbot.com/)
