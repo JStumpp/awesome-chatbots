@@ -36,7 +36,7 @@ A curated list of awesome Chatbot services and resources.
 - [DialogFlow](https://dialogflow.com/) - Conversational User Experience platform
 - [reply.ai](https://www.reply.ai/) - Platform to build & manage conversation chatbots
 - [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding
-- [message.io](https://message.io/) - Enterprise bots for Slack, HipChat and Skype
+- [m.io](https://m.io) - Enterprise bots for Slack, HipChat and Skype
 - [TuringRobot](http://www.tuling123.com/) - Platform for AI robots and AI robot OS
 
 ### Messaging services
@@ -83,7 +83,7 @@ A curated list of awesome Chatbot services and resources.
 ## Chatbots
 - [Botlist](https://botlist.co/) - An App Store For Bots
 - [A. L. I. C. E.](https://alice.pandorabots.com/)
-- [Mitsuku](http://www.mitsuku.com/) - Won most humanlike AI in Loebner Price
+- [Mitsuku](https://pandorabots.com/mitsuku) - Won most humanlike AI in Loebner Price
 - [Microsoft XiaoIce in Chinese ](http://www.msxiaoice.com/)
 - [Microsoft Tay](https://twitter.com/tayandyou)
 - [Cleverbot](http://www.cleverbot.com/)
@@ -98,7 +98,7 @@ A curated list of awesome Chatbot services and resources.
 - [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/) - Tutorial for Claudia Bot Builder
 - [Handling Permissions with DialogFlow and Actions On Google](https://medium.com/google-developer-experts/handling-permissions-with-dialogflow-and-actions-on-google-b08c8f228c00) - Tutorial for the Google Assistant & DialogFlow
 - [Build multi-lingual Actions for the Google Assistant](https://medium.com/google-developer-experts/build-multi-lingual-actions-for-the-google-assistant-106d2b94aa1a) - Tutorial for the Google Assistant & DialogFlow
-- [Mastering follow-up intents with DialogFlow](https://medium.com/@wassimchegham/mastering-follow-up-intents-with-dialogflow-851b75b83f5a) - Tutorial for the Google Assistant & DialogFlow
+- [Mastering follow-up intents with DialogFlow](https://medium.com/google-developer-experts/mastering-follow-up-intents-with-dialogflow-851b75b83f5a) - Tutorial for the Google Assistant & DialogFlow
 
 ## Contributing
 
