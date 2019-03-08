@@ -32,6 +32,7 @@ A curated list of awesome Chatbot services and resources.
 - [Botsociety](https://botsociety.io) - Design and preview your chabot before actually building it.
 
 ### Chatbot builder
+- [BotStar](https://wwww.botstar.com) - Design and Develop Chatbots for Messenger & Website. Visually.
 - [Flow XO](https://flowxo.com) - Bot + human messaging platform
 - [Gupshup](https://www.gupshup.io) - Comprehensive Platform to build Bots and use messaging Services
 - [Pandorabots](https://pandorabots.com/) - Web service for building and deploying chatbots
