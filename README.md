@@ -25,6 +25,7 @@ A curated list of awesome Chatbot services and resources.
 - [RedBot](http://red-bot.io) - A Node-RED plugin to create multi-platform bots visually (nodejs).
 - [Botman](https://botman.io/) - an open-source framework in PHP
 - [Bottender](https://bottender.js.org/) - an open-source chatbot framework in NodeJS
+- [Rasa Talk](https://github.com/jackdh/RasaTalk) - GUI supported open-source chatbot framework built over Rasa.
 
 ## Services
 
