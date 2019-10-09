@@ -91,6 +91,7 @@ A curated list of awesome Chatbot services and resources.
 - [Microsoft XiaoIce in Chinese ](http://www.msxiaoice.com/)
 - [Microsoft Tay](https://twitter.com/tayandyou)
 - [Cleverbot](http://www.cleverbot.com/)
+- [BotList.net](https://botlist.net/) - A list of bots for Discord, Slack, Telegram and more
 
 ## Resources
 - [Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - Good introduction
