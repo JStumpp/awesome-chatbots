@@ -4,6 +4,8 @@ A curated list of awesome Chatbot services and resources.
 
 ## Contents
 - [Open Source Projects](#open-source-projects)
+    - [Programming language](#programming-language)
+    - [Frameworks and libraries](#frameworks-and-libraries)
 - [Services](#services)
     - [Chatbot design](#chatbot-design)
     - [Chatbot builder](#chatbot-builder)
@@ -17,6 +19,11 @@ A curated list of awesome Chatbot services and resources.
 - [Contributing](#contributing)
 
 ## Open Source Projects
+
+### Programming language
+- [CSML](https://github.com/CSML-by-Clevy/csml-interpreter) - Programming language dedicated to creating chatbots.
+
+### Frameworks and libraries
 - [spaCy](https://pypi.org/project/spacy/) - Python library for advanced natural language processing.
 - [Botkit](https://github.com/howdyai/botkit) - Open Source bot building blocks for Slack, Facebook Messenger, Twilio, Microsoft with [Botkit Studio](https://studio.botkit.ai/) - a hosted development environment
 - [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Open Source library to create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda
