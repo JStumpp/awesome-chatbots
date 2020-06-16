@@ -40,6 +40,7 @@ A curated list of awesome Chatbot services and resources.
 - [Gupshup](https://www.gupshup.io) - Comprehensive Platform to build Bots and use messaging Services
 - [Pandorabots](https://pandorabots.com/) - Web service for building and deploying chatbots
 - [DialogFlow](https://dialogflow.com/) - Conversational User Experience platform
+- [Oswald](https://oswald.ai/) - All the tools you need in one platform!
 - [reply.ai](https://www.reply.ai/) - Platform to build & manage conversation chatbots
 - [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding
 - [m.io](https://m.io) - Enterprise bots for Slack, HipChat and Skype
