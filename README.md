@@ -73,7 +73,7 @@ A curated list of awesome Chatbot services and resources.
 - Hipchat
 - Skype
 - Kik
-- Line
+- [LINE](https://developers.line.biz/en/docs/messaging-api/)
 - [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
 
 ## Personal Assistants
