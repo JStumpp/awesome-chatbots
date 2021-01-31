@@ -99,6 +99,7 @@ A curated list of awesome Chatbot services and resources.
 - [Chatbots Magazine](https://chatbotsmagazine.com/) - A good place to Learn About Chatbots
 - [Bot Weekly](http://botweekly.com/issues) - Weekly round up of the most interesting chatbot and AI news
 - [Bot Wiki](https://botwiki.org/) - Catalog of online bots, tools and tutorials
+- [Creating Virtual Assistants](https://www.manning.com/books/creating-virtual-assistants) - Book covering how to design, build, train, and test a chatbot
 
 ### Tutorials
 - [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/) - Tutorial for Claudia Bot Builder
