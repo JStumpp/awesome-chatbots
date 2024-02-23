@@ -34,6 +34,7 @@ A curated list of awesome Chatbot services and resources.
 - [Botsociety](https://botsociety.io) - Design and preview your chabot before actually building it.
 
 ### Chatbot builder
+- [Copilot.Live](https://www.copilot.live/) - Custom GPT for your website
 - [Botfront](https://botfront.io) - An open source platform to visually and intuitively build chatbots with Rasa.
 - [BotStar](https://wwww.botstar.com) - Design and Develop Chatbots for Messenger & Website. Visually.
 - [Flow XO](https://flowxo.com) - Bot + human messaging platform
