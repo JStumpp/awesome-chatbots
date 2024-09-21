@@ -52,7 +52,7 @@ A curated list of awesome Chatbot services and resources.
 
 ## Analytics
 - [Dashbot](https://www.dashbot.io/) - Bot Analytics
-- [ChatBase](https://chatbase.com/welcome) - Analyze and optimize bots more easily
+- [Chatbase](https://chatbase.co) - Analyze and optimize bots more easily
 
 ## Payments & Subscriptions
 - [Paypal](https://developer.paypal.com/)
