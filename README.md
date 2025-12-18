@@ -25,6 +25,7 @@ A curated list of awesome Chatbot services and resources.
 - [RedBot](http://red-bot.io) - A Node-RED plugin to create multi-platform bots visually (nodejs).
 - [Botman](https://botman.io/) - an open-source framework in PHP
 - [BotPress](https://botpress.io/) - Botpress is an on-prem, open-source bot building platform for businesses
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support, MCP integration, agentic workflows, Python & JS SDKs.
 - [Bottender](https://bottender.js.org/) - an open-source chatbot framework in NodeJS
 - [Rasa Talk](https://github.com/jackdh/RasaTalk) - GUI supported open-source chatbot framework built over Rasa.
 
