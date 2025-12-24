@@ -44,6 +44,7 @@ A curated list of awesome Chatbot services and resources.
 - [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding
 - [m.io](https://m.io) - Enterprise bots for Slack, HipChat and Skype
 - [TuringRobot](http://www.tuling123.com/) - Platform for AI robots and AI robot OS
+- [Vedika](https://vedika.io) - AI-powered Vedic astrology API to build astrology chatbots with natural language queries
 
 ### Messaging services
 - [msg.ai](http://msg.ai/) - AI for Conversational Commerce
