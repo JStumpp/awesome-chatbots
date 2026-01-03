@@ -49,6 +49,7 @@ A curated list of awesome Chatbot services and resources.
 - [msg.ai](http://msg.ai/) - AI for Conversational Commerce
 - [wit.ai](https://wit.ai/) - Natural Language for Developers
 - [Google NLP](https://cloud.google.com/natural-language/) - Cloud Natural Language API (up to 5K free analyses/month)
+- [Vedika API](https://vedika.io/) - AI-powered Vedic astrology chatbot API with 108+ endpoints and multi-language support
 
 ## Analytics
 - [Dashbot](https://www.dashbot.io/) - Bot Analytics
