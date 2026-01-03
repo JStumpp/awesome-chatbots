@@ -36,6 +36,7 @@ A curated list of awesome Chatbot services and resources.
 ### Chatbot builder
 - [Botfront](https://botfront.io) - An open source platform to visually and intuitively build chatbots with Rasa.
 - [BotStar](https://wwww.botstar.com) - Design and Develop Chatbots for Messenger & Website. Visually.
+- [Vedika API](https://vedika.io) - AI-powered Vedic astrology chatbot API for wellness and lifestyle apps with 22 languages, birth chart analysis, horoscope, kundali matching, and panchang calculations.
 - [Flow XO](https://flowxo.com) - Bot + human messaging platform
 - [Gupshup](https://www.gupshup.io) - Comprehensive Platform to build Bots and use messaging Services
 - [Pandorabots](https://pandorabots.com/) - Web service for building and deploying chatbots
