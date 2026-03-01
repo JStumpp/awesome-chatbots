@@ -27,6 +27,7 @@ A curated list of awesome Chatbot services and resources.
 - [BotPress](https://botpress.io/) - Botpress is an on-prem, open-source bot building platform for businesses
 - [Bottender](https://bottender.js.org/) - an open-source chatbot framework in NodeJS
 - [Rasa Talk](https://github.com/jackdh/RasaTalk) - GUI supported open-source chatbot framework built over Rasa.
+- [OpenPaw](https://github.com/daxaur/openpaw) - Open-source CLI assistant (`npx pawmode`) with a built-in Telegram bridge for chatting with Claude from your phone. 38 skills for email, calendar, Spotify, smart home, GitHub, Slack and more.
 
 ## Services
 
