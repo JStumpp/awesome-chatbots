@@ -27,6 +27,7 @@ A curated list of awesome Chatbot services and resources.
 - [BotPress](https://botpress.io/) - Botpress is an on-prem, open-source bot building platform for businesses
 - [Bottender](https://bottender.js.org/) - an open-source chatbot framework in NodeJS
 - [Rasa Talk](https://github.com/jackdh/RasaTalk) - GUI supported open-source chatbot framework built over Rasa.
+- [AgentForge](https://github.com/merway7/agentforge-starter) - Drop-in AI customer support agent with Claude API, embeddable chat widget, and SSE streaming. Zero dependencies.
 
 ## Services
 
