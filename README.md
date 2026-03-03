@@ -89,6 +89,7 @@ A curated list of awesome Chatbot services and resources.
 - [Botlist](https://botlist.co/) - An App Store For Bots
 - [A. L. I. C. E.](https://alice.pandorabots.com/)
 - [Mitsuku](https://pandorabots.com/mitsuku/) - Won most humanlike AI in Loebner Price
+- [Paula](https://trypaula.com) - Free AI mental health companion using CBT and DBT techniques, with voice sessions, mood tracking, and 24/7 emotional support.
 - [Microsoft XiaoIce in Chinese ](http://www.msxiaoice.com/)
 - [Microsoft Tay](https://twitter.com/tayandyou)
 - [Cleverbot](http://www.cleverbot.com/)
