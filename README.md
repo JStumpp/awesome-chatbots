@@ -93,6 +93,7 @@ A curated list of awesome Chatbot services and resources.
 - [Microsoft Tay](https://twitter.com/tayandyou)
 - [Cleverbot](http://www.cleverbot.com/)
 - [BotList.net](https://botlist.net/) - A list of bots for Discord, Slack, Telegram and more
+- [DoaCam](https://doacam.com) - A 3D AI avatar you can video call in the browser. Real-time voice, camera vision, 97 facial expressions, and persistent memory. Free, no sign-up required.
 
 ## Resources
 - [Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - Good introduction
