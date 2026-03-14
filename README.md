@@ -93,6 +93,7 @@ A curated list of awesome Chatbot services and resources.
 - [Microsoft Tay](https://twitter.com/tayandyou)
 - [Cleverbot](http://www.cleverbot.com/)
 - [BotList.net](https://botlist.net/) - A list of bots for Discord, Slack, Telegram and more
+- [helloandy.net](https://helloandy.net) - Free AI tools suite — 16-mode chatbot, AI text humanizer, CLAUDE.md writer, SKILL.md generator, and 7 more tools. No login required.
 
 ## Resources
 - [Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - Good introduction
