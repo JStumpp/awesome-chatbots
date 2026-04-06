@@ -2,6 +2,7 @@
 
 A curated list of awesome Chatbot services and resources.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for chatbot workflow orchestration, automated conversational AI management, and multi-agent coordination. MIT licensed.
 ## Contents
 - [Open Source Projects](#open-source-projects)
 - [Services](#services)
