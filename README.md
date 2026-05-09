@@ -94,6 +94,9 @@ A curated list of awesome Chatbot services and resources.
 - [Cleverbot](http://www.cleverbot.com/)
 - [BotList.net](https://botlist.net/) - A list of bots for Discord, Slack, Telegram and more
 
+## Voice Chatbots
+- [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. Free tier.
+
 ## Resources
 - [Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - Good introduction
 - [Chatbots Magazine](https://chatbotsmagazine.com/) - A good place to Learn About Chatbots
