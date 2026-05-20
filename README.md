@@ -44,6 +44,7 @@ A curated list of awesome Chatbot services and resources.
 - [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding
 - [m.io](https://m.io) - Enterprise bots for Slack, HipChat and Skype
 - [TuringRobot](http://www.tuling123.com/) - Platform for AI robots and AI robot OS
+- [Atendente24h](https://atendente24h.com) - Brazilian SaaS chatbot for WhatsApp with native Anthropic Claude AI. Done-for-you setup in 5 minutes, no fluxograma/canvas. 7 days free without credit card.
 
 ### Messaging services
 - [msg.ai](http://msg.ai/) - AI for Conversational Commerce
