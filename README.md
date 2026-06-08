@@ -58,6 +58,7 @@ A curated list of awesome Chatbot services and resources.
 - [Paypal](https://developer.paypal.com/)
 - [Stripe](https://stripe.com/)
 - [Braintree](https://www.braintreepayments.com/)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - x402 micropayment verification for AI agent chatbots on Solana. Free MCP trust-scoring tools to verify agent identity before processing payments.
 
 ## Example projects 
 - [Facebook Messenger DevKit](https://github.com/olegakbarov/facebook-messenger-devkit) - Node.js setup for rapid development for Facebook Messenger Platform
