@@ -27,6 +27,7 @@ A curated list of awesome Chatbot services and resources.
 - [BotPress](https://botpress.io/) - Botpress is an on-prem, open-source bot building platform for businesses
 - [Bottender](https://bottender.js.org/) - an open-source chatbot framework in NodeJS
 - [Rasa Talk](https://github.com/jackdh/RasaTalk) - GUI supported open-source chatbot framework built over Rasa.
+- [Novu Connect](https://novu.co/connect) - Give one AI agent a synced presence across every messaging channel (Slack, Teams, WhatsApp), with in-conversation MCP tool access.
 
 ## Services
 
