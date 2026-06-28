@@ -44,6 +44,7 @@ A curated list of awesome Chatbot services and resources.
 - [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding
 - [m.io](https://m.io) - Enterprise bots for Slack, HipChat and Skype
 - [TuringRobot](http://www.tuling123.com/) - Platform for AI robots and AI robot OS
+- [Neuron](https://github.com/conquext/neuron) - AI-powered WhatsApp chatbot platform with 196 MCP tools, knowledge bases, campaigns, and multi-model AI support.
 
 ### Messaging services
 - [msg.ai](http://msg.ai/) - AI for Conversational Commerce
