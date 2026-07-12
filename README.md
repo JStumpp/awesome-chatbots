@@ -27,6 +27,7 @@ A curated list of awesome Chatbot services and resources.
 - [BotPress](https://botpress.io/) - Botpress is an on-prem, open-source bot building platform for businesses
 - [Bottender](https://bottender.js.org/) - an open-source chatbot framework in NodeJS
 - [Rasa Talk](https://github.com/jackdh/RasaTalk) - GUI supported open-source chatbot framework built over Rasa.
+- [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Visual AI agent for WeChat automation on macOS using multimodal vision perception and LLM, with memory system and multi-agent architecture.
 
 ## Services
 
