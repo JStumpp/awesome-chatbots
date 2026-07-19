@@ -43,6 +43,7 @@ A curated list of awesome Chatbot services and resources.
 - [reply.ai](https://www.reply.ai/) - Platform to build & manage conversation chatbots
 - [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding
 - [m.io](https://m.io) - Enterprise bots for Slack, HipChat and Skype
+- [Okidoki Chat](https://okidoki.chat) - AI chat widget that qualifies website visitors and books meetings via text, voice, video, or WhatsApp.
 - [TuringRobot](http://www.tuling123.com/) - Platform for AI robots and AI robot OS
 
 ### Messaging services
