@@ -17,6 +17,7 @@ A curated list of awesome Chatbot services and resources.
 - [Contributing](#contributing)
 
 ## Open Source Projects
+- [SARA](https://github.com/Alessandro114/sara) - Open-source WhatsApp AI agent with multi-tenant architecture, 20 vertical personas, and function calling.
 - [spaCy](https://pypi.org/project/spacy/) - Python library for advanced natural language processing.
 - [Botkit](https://github.com/howdyai/botkit) - Open Source bot building blocks for Slack, Facebook Messenger, Twilio, Microsoft with [Botkit Studio](https://studio.botkit.ai/) - a hosted development environment
 - [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Open Source library to create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda
