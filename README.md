@@ -92,6 +92,7 @@ A curated list of awesome Chatbot services and resources.
 - [Microsoft XiaoIce in Chinese ](http://www.msxiaoice.com/)
 - [Microsoft Tay](https://twitter.com/tayandyou)
 - [Cleverbot](http://www.cleverbot.com/)
+- [WSUP AI: Free AI Character Chat](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up.
 - [BotList.net](https://botlist.net/) - A list of bots for Discord, Slack, Telegram and more
 
 ## Resources
