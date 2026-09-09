@@ -93,6 +93,7 @@ A curated list of awesome Chatbot services and resources.
 - [Microsoft Tay](https://twitter.com/tayandyou)
 - [Cleverbot](http://www.cleverbot.com/)
 - [BotList.net](https://botlist.net/) - A list of bots for Discord, Slack, Telegram and more
+- [Milo](https://milo.seemplifyai.com/) - A browser voice chatbot with an animated Three.js robot, on-device transcription, and local or optional ChatGPT replies; free for personal, noncommercial use.
 
 ## Resources
 - [Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca) - Good introduction
