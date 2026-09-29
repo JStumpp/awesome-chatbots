@@ -45,6 +45,8 @@ A curated list of awesome Chatbot services and resources.
 - [m.io](https://m.io) - Enterprise bots for Slack, HipChat and Skype
 - [TuringRobot](http://www.tuling123.com/) - Platform for AI robots and AI robot OS
 
+- [Instant Reply](https://www.instantreply.co/) - Agentic AI sales agent that closes business DMs on Instagram, WhatsApp and Messenger, re-engages past conversations, and connects to Claude or Codex via MCP.
+
 ### Messaging services
 - [msg.ai](http://msg.ai/) - AI for Conversational Commerce
 - [wit.ai](https://wit.ai/) - Natural Language for Developers
