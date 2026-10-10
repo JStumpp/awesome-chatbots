@@ -27,6 +27,7 @@ A curated list of awesome Chatbot services and resources.
 - [BotPress](https://botpress.io/) - Botpress is an on-prem, open-source bot building platform for businesses
 - [Bottender](https://bottender.js.org/) - an open-source chatbot framework in NodeJS
 - [Rasa Talk](https://github.com/jackdh/RasaTalk) - GUI supported open-source chatbot framework built over Rasa.
+- [NeoBrain Launcher](https://github.com/Sbeuvadyarik67/NeoLauncher-) - A collection of local AI apps in one launcher: chat with characters, 7 animated backgrounds, avatars, and character editing.
 
 ## Services
 
@@ -59,7 +60,7 @@ A curated list of awesome Chatbot services and resources.
 - [Stripe](https://stripe.com/)
 - [Braintree](https://www.braintreepayments.com/)
 
-## Example projects 
+## Example projects
 - [Facebook Messenger DevKit](https://github.com/olegakbarov/facebook-messenger-devkit) - Node.js setup for rapid development for Facebook Messenger Platform
 
 ## Chatbot Platforms and Channels
