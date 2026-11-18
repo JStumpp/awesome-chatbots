@@ -27,6 +27,7 @@ A curated list of awesome Chatbot services and resources.
 - [BotPress](https://botpress.io/) - Botpress is an on-prem, open-source bot building platform for businesses
 - [Bottender](https://bottender.js.org/) - an open-source chatbot framework in NodeJS
 - [Rasa Talk](https://github.com/jackdh/RasaTalk) - GUI supported open-source chatbot framework built over Rasa.
+- [Gusgon.js](https://github.com/xenpian/gusgon.js) - Official open-source Node.js bot SDK for GusGon voice, video, and chat servers (slash commands, embeds, interactive buttons).
 
 ## Services
 
@@ -75,6 +76,7 @@ A curated list of awesome Chatbot services and resources.
 - Kik
 - Line
 - [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
+- [GusGon](https://developer.gusgon.com)
 
 ## Personal Assistants
 - [Apple Siri](https://www.apple.com/ios/siri/)
